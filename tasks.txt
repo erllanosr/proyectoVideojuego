@@ -1,0 +1,39 @@
+Tareas por hacer y/o hechas:
+COSAS HECHAS:
+-> Sonido
+->
+->
+COSAS MEDIO HECHAS:
+-> Entidades
+-> Sonido
+->
+
+COSAS QUE FALTAN:
+-> Menú
+-> Diseño de Niveles
+-> Triggers
+-> Estadísticas
+-> Animaciones independientes
+-> Dirección de la bala/comportamiento
+-> Vidas
+-> Respawn enemigos
+-> Objetivos, monedas, etc
+
+ERRORES:
+-> Bala solo se dispara a la derecha, no a la izquierda.
+->
+->
+->
+
+DUDAS:
+-> Animaciones
+-> 
+->
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Erick:
+-Cosas que faltan:
+->Crear menú principal(nivel1) (ver problema de flechas, dimensiones en general)
+Piero:
+->
+->
